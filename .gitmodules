@@ -1,0 +1,4 @@
+[submodule "libsass"]
+	path = libsass
+	url = git://github.com/utkarshkukreti/libsass.git
+	branch = fix-separator-in-append-and-compact
